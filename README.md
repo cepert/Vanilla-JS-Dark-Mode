@@ -25,4 +25,3 @@ Crediting format: This boilerplate is kindly provided by Yap Khai Yuan
 
 Give a ⭐️ if this project helped you!
 
-***
