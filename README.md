@@ -14,9 +14,12 @@
 
 👤 **YuanYap**
 
-* Credit is needed
 * Website: https://www.youtube.com/c/SimplySoftware
 * Github: [@YuanYap](https://github.com/YuanYap)
+
+## Credit 
+
+Crediting format: _This boilerplate is kindly provided by Yap Khai Yuan_
 
 ## Show your support
 
