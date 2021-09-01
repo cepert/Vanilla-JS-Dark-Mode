@@ -19,7 +19,7 @@
 
 ## Credit 
 
-Crediting format: _This boilerplate is kindly provided by Yap Khai Yuan_
+Crediting format: This boilerplate is kindly provided by Yap Khai Yuan
 
 ## Show your support
 
